@@ -1,0 +1,41 @@
+BODY {
+	PADDING: 20px;
+	MARGIN: 20px;
+	background-color: #fff;
+
+}
+
+BODY, TD {
+	FONT-SIZE: 12px;
+	FONT-FAMILY: Arial, Tahoma, Verdana, Helvetica;
+	line-height: 18px;
+	color: black;
+
+}
+
+A:link {
+	COLOR: orange; TEXT-DECORATION: none; FONT-WEIGHT: bold
+}
+A:active {
+	COLOR: orange; TEXT-DECORATION: none; FONT-WEIGHT: bold
+}
+A:visited {
+	COLOR: orange; TEXT-DECORATION: none; FONT-WEIGHT: bold
+}
+A:hover {
+	COLOR: orange; TEXT-DECORATION: underline; FONT-WEIGHT: bold
+
+}
+
+H2 {
+	PADDING: 0px;
+	MARGIN: 0px;
+	FONT: 20px Georgia, Tahoma, Verdana, Geneva, Arial, Helvetica;
+}
+
+H4 {
+	DISPLAY: inline;
+	PADDING: 0px;
+	MARGIN: 0px;
+	FONT: 9px Arial, Tahoma, Verdana, Helvetica;
+}
